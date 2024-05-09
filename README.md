@@ -5,6 +5,7 @@ git 실습을 위한 저장소
 
 |언어|비고|
 |:---:|:---:|
-|C++||
+|C++|WIN32,MFC,ROCKCHIP RV1108|
+|C#|WPF, DevExpress|
 |JAVA||
 |Python||
