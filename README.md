@@ -9,3 +9,5 @@ git 실습을 위한 저장소
 |C#|WPF, DevExpress|
 |JAVA||
 |Python||
+
+- 소스트리 연동 테스트
